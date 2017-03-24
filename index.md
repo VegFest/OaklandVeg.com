@@ -3,7 +3,7 @@ layout: frontpage
 ---
 
 <p style="font-size: 1em; border: 1px dotted lightgray; padding: 10px">
-  Looking for info about <a href="https://OaklandVegFest.com">Oakland VegFest</a>? It's on May 20, 2017 at Lake Merritt Amphitheater. Exhibitors and sponsor <a href="https://oaklandvegfest.com/apply/">click here to apply</a>.
+  Looking for info about <a href="https://OaklandVegFest.com">Oakland VegFest</a>? It's on May 20, 2017 at Lake Merritt Amphitheater.
 </p>
 
 ## VegWeek Schedule
